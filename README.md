@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on Front End Development using CSS And JavaScript
-- 📫 How to reach me : emaail me @ kapuyakelvin18.kk@gmail.com
+- 📫 How to reach me : email me @ kapuyakelvin18.kk@gmail.com
 
 <!---
 kelvinkapuya/kelvinkapuya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
